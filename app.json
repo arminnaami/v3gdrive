@@ -1,11 +1,11 @@
 {
 	"name": "nk932714",
 	"description": "HTTP Request & Response Service, written in node + http + css",
-	"website": "https://github.com/nk932714/v2gdrive",
+	"website": "https://github.com/nk932714/v3gdrive",
 	"logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Google-favicon-2015.png/150px-Google-favicon-2015.png",
 	"repository": "https://github.com/nk932714/v2gdrive.git",
 	"env": {
 		"value": "http://YOURAPP.com/oauth2callback",
 		"DRIVE_REDIRECT_URI": { "required": false }
-	},
+	}
 }

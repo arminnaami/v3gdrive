@@ -1,15 +1,6 @@
-/*****
-Bytutorial.com - online community to share articles for web and mobile programming and designers.
-Author: Andy Suwandy
-
-NOTE: Please change the CLIENT ID by creating your own app in google.
-In order to work in your local computer, please change the client ID in the code and set the url of where the google drive app will be loaded.
-otherwise you should get an error message saying the url you try to load does not match.
-****/
-
 /******************** GLOBAL VARIABLES ********************/
 var SCOPES = ['https://www.googleapis.com/auth/drive','profile'];
-var CLIENT_ID = '198313434809-ihv1ucle9faq9v5vo2qnum0m8mccjj4l.apps.googleusercontent.com';
+var CLIENT_ID = '1057617034424-t6aa3qkiff7dqdde1p0d1ffrf68ubvdt.apps.googleusercontent.com';
 var FOLDER_NAME = "";
 var FOLDER_ID = "root";
 var FOLDER_PERMISSION = true;

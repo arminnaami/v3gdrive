@@ -10,8 +10,8 @@ Download url to your Google Drive directly
 
 Heroku install 
 Note:- enter your redirect url
-
-<!--- --> click here to deploy [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy) 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+<!--- --> click here to deploy [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 **Full Guide installation: Comming soon**
 

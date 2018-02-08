@@ -1,5 +1,5 @@
 {
-    "name": "Nk Cloud",
+    "name": "Nk_Cloud",
     "description": "Directly upload files to Cloud",
     "repository": "https://github.com/nk932714/v3gdrive",
     "env": {

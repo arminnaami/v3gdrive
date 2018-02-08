@@ -9,9 +9,10 @@ Download url to your Google Drive directly
 2. Run `npm start`. Enjoy!
 
 Heroku install 
-Note:- enter your redirect url
+Note:- enter your redirect url<br>
+
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
-<!--- --> click here to deploy [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 
 **Full Guide installation: Comming soon**
 

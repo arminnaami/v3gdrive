@@ -16,6 +16,6 @@ click here to deploy [![Deploy to Heroku](https://www.herokucdn.com/deploy/butto
 **Full Guide installation: Comming soon**
 
 
-NOTE:- **Not working currently i will fix that soon**
+[h1]``` NOTE:- **Not working currently i will fix that soon** ```[\h1]
 
-Credits:Karl Chan
+Credits:Karl,bytutorial & many more

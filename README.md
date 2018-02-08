@@ -16,6 +16,6 @@ Note:- enter your redirect url
 **Full Guide installation: Comming soon**
 
 
-[h1]``` NOTE:- **Not working currently i will fix that soon** ```[\h1]
+# NOTE:- **Not working currently i will fix that soon** 
 
 Credits:Karl,bytutorial & many more

@@ -1,0 +1,10 @@
+{
+    "name": "Nk Cloud",
+    "description": "Directly upload files to Cloud",
+    "repository": "https://github.com/nk932714/v3gdrive",
+    "env": {
+        "DRIVE_REDIRECT_URI": {
+            "description": "Google Project's Redirect url"
+        }
+    }
+}

@@ -2,6 +2,7 @@
 var SCOPES = ['https://www.googleapis.com/auth/drive','profile'];
 /* var CLIENT_ID = '150769706852-4but7mg0gdgd5augh51q5m981mlgf5i3.apps.googleusercontent.com'; */
 const CLIENT_ID = process.env.DRIVE_CLIENT_ID;
+/*const CLIENT_ID = process.env.DRIVE_CLIENT_ID || '78sdc98h90u87t98i98a980ji';*/
 var FOLDER_NAME = "";
 var FOLDER_ID = "root";
 var FOLDER_PERMISSION = true;

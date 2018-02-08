@@ -5,10 +5,10 @@
     "env": {
          "DRIVE_CLIENT_ID": {
             "description": "Google Project's Client ID"
-                             },
+         },
         "DRIVE_CLIENT_SECRET": {
             "description": "Google Project's Client Secret"
-                                },
+        },
         "DRIVE_REDIRECT_URI": {
             "description": "Google Project's Redirect url"
         }

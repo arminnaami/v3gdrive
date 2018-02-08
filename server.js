@@ -5,9 +5,9 @@
 
 const DRIVE_CLIENT_ID = driveCredentials.clientId;
 const DRIVE_CLIENT_SECRET = driveCredentials.clientSecret; */
-const DRIVE_CLIENT_ID = process.env.DRIVE_CLIENT_ID || '158796542357-4hdj664h5fds5fs4d65dsf54d5fd5f4s.apps.googleusercontent.com';
-const DRIVE_CLIENT_SECRET = process.env.DRIVE_CLIENT_SECRET || '78sdc98h90u87t98i98a980ji';
-const DRIVE_REDIRECT_URI = process.env.DRIVE_REDIRECT_URI || 'http://localhost/oauth2callback';
+const DRIVE_CLIENT_ID = process.env.DRIVE_CLIENT_ID;
+const DRIVE_CLIENT_SECRET = process.env.DRIVE_CLIENT_SECRET;
+const DRIVE_REDIRECT_URI = process.env.DRIVE_REDIRECT_URI;
 const DRIVE_RETURN_FIELDS = 'id,name,webViewLink';
 const DRIVE_TORRENT_DIR = 'My torrents';
 
